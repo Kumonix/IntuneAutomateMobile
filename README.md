@@ -1,2 +1,95 @@
 # IntuneAutomateMobile
 IntuneAutomate Mobile - FREE Repository for your Microsoft Intune Mobile monitoring
+
+![HR Automation Banner](HRAutomation.png)
+
+# 🚀 HR Automation for Microsoft Ecosystems
+
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![GitHub Stars](https://img.shields.io/github/stars/your-org/hr-automation?style=social)
+
+Welcome to the **HR Automation Community Resource**!  
+This repository contains Microsoft-focused resources to help IT and HR automate common HR solutions. From the more complex Onboarding with Microsoft Intune for identity and workflow to end user experiences through Expenses and Leave. It's purpose is to help both IT and HR teams streamline employee lifecycle processes using the Microsoft 365 ecosystem.
+
+---
+
+## 📚 Table of Contents
+- [🎯 Purpose](#-purpose)
+- [✅ Features Included](#-features-included)
+- [📁 Folder Structure](#-folder-structure)
+- [📁 Future Functionality](#-future-functionality)
+- [🤝 Community Contribution](#-community-contribution)
+- [📌 How to Get Started](#-how-to-get-started)
+- [🏷️ Tags](#-tags)
+
+---
+
+## 🎯 **Purpose**
+
+HR processes like onboarding and offboarding can be time-consuming and error-prone. This project provides **ready-to-use automation templates** built using:
+
+- **Microsoft Forms**  
+- **SharePoint**  
+- **Power Automate**  
+- **Planner**  
+- **Microsoft Entra**  
+- **Microsoft Teams**  
+- **Power Apps**
+
+Our goal is to **simplify HR workflows**, improve compliance, and enhance the employee experience — all while leveraging tools you already have in Microsoft 365.
+
+---
+
+## ✅ **Features Included**
+
+This repository currently includes **Three core automation flows**:
+
+### 1. Employee Onboarding
+- Automates account provisioning, License assignment, Notifications using Email, Planner and Teams.
+- Create new starters with a SharePoint Form and watch the automation take effect.
+
+### 2. Employee Offboarding
+- Handles Access removal, Group removal, License removal with notifiations via automated emails.
+- Ensures a smooth and secure Offboarding and stores Employee documents.
+
+### 3. Windows Device Renaming
+- Easily rename a windows device using a Power Automate flow without access to the Intune Portal.
+- Brings some quick windows tasks to SMB managers without involving IT Admins
+---
+
+## 📁 Folder Structure
+
+- [`/Onboarding and Offboarding`](./OnboardingOffboarding) – Contains all resources and flows related to employee onboarding and Offboarding.
+
+---
+## 🤝 Future Functionality
+
+**Multiple new features Incoming**.
+- Admin Uplift 
+- Application Assignment
+- Asset Management
+- Reports and Personna Mapping
+
+## 🤝 Community Contribution
+
+This is an **open community project**. We welcome:
+- Contributions (new features, bug fixes, enhancements)
+- Ideas for additional HR workflows
+- Feedback and best practices
+
+Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
+
+---
+
+## 📌 **How to Get Started**
+
+1. Clone or download this repository.
+2. Import the provided **Power Automate flows** into your environment.
+3. Configure connections for Microsoft 365 services.
+4. Customize to fit your organization’s needs.
+
+---
+
+## 🏷️ Tags
+
+`#Microsoft365` `#PowerAutomate` `#HRTech` `#Automation` `#Intune` `#Onboarding` `#Offboarding` `#CommunityDriven` `#OpenSource`
