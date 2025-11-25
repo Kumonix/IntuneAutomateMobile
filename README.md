@@ -42,49 +42,40 @@ Our goal is to **gain quick access to Microsoft Intune metrics on the go**, with
 
 ## ✅ **Features Included**
 
-This repository currently includes **Three core automation flows**:
+This repository currently includes **Three folders for Setup**:
 
-### 1. Employee Onboarding
-- Automates account provisioning, License assignment, Notifications using Email, Planner and Teams.
-- Create new starters with a SharePoint Form and watch the automation take effect.
+### 1. Power platform Solution
+- This ia a Microsoft Power App and Automate solution and includes the flows and Canvas app.
+- DOWNLOAD and Import into your own tenant. Automate flows connect to your own Intune tenant to gain the latest configuration data and saves to SharePoint for presentation.
 
-### 2. Employee Offboarding
-- Handles Access removal, Group removal, License removal with notifiations via automated emails.
-- Ensures a smooth and secure Offboarding and stores Employee documents.
+### 2. SharePoint List
+- The SharePoint List is the the data source for the mobile app incliding data for Compliance and policies, configuration, applications, device insights and alerts.
 
-### 3. Windows Device Renaming
-- Easily rename a windows device using a Power Automate flow without access to the Intune Portal.
-- Brings some quick windows tasks to SMB managers without involving IT Admins
+### 3. Getting started guide
+- It is assumed you have knowledge to deploy so this doc provides the guidelines for deployment and details to get you up and running
 ---
 
-## 📁 Folder Structure
-
-- [`/Onboarding and Offboarding`](./OnboardingOffboarding) – Contains all resources and flows related to employee onboarding and Offboarding.
-
----
 ## 🤝 Future Functionality
 
 **Multiple new features Incoming**.
-- Admin Uplift 
-- Application Assignment
-- Asset Management
-- Reports and Personna Mapping
+- Policy Updates and daily change notifications 
+- Security and compliance notifications and Alerts
+- Integration with the main Admin portal- Coming soon
+- Open to community involvement and new ideas
 
 ## 🤝 Community Contribution
 
 This is an **open community project**. We welcome:
 - Contributions (new features, bug fixes, enhancements)
-- Ideas for additional HR workflows
+- Ideas for additional automation and functional improvements
 - Feedback and best practices
-
-Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
 
 ---
 
 ## 📌 **How to Get Started**
 
 1. Clone or download this repository.
-2. Import the provided **Power Automate flows** into your environment.
+2. Import the provided **Power platform solution** into your environment.
 3. Configure connections for Microsoft 365 services.
 4. Customize to fit your organization’s needs.
 
@@ -92,4 +83,4 @@ Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get
 
 ## 🏷️ Tags
 
-`#Microsoft365` `#PowerAutomate` `#HRTech` `#Automation` `#Intune` `#Onboarding` `#Offboarding` `#CommunityDriven` `#OpenSource`
+`#Microsoft365` `#PowerAutomate` `#MSTech` `#Automation` `#Intune` `#CommunityDriven` `#OpenSource`
