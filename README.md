@@ -17,7 +17,6 @@ These tools are created for FREE Use and modification. If you are familiar with 
 ## 📚 Table of Contents
 - [🎯 Purpose](#-purpose)
 - [✅ Features Included](#-features-included)
-- [📁 Folder Structure](#-folder-structure)
 - [📁 Future Functionality](#-future-functionality)
 - [🤝 Community Contribution](#-community-contribution)
 - [📌 How to Get Started](#-how-to-get-started)
