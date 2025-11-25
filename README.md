@@ -1,7 +1,7 @@
 # IntuneAutomateMobile
 IntuneAutomate Mobile - FREE Repository for your Microsoft Intune Mobile monitoring
 
-![HR Automation Banner](HRAutomation.png)
+![Intune Automate Mobile](Intune%20Automate.png)
 
 # 🚀 HR Automation for Microsoft Ecosystems
 
