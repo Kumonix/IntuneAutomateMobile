@@ -30,7 +30,7 @@ These tools are created for FREE Use and modification. If you are familiar with 
 While The Intune portal is great there isnt a mobile version to gain a quick update and check-in. 
 The mobile App works on both Android and iOS and provides **ready-to-use Updates** built using:
 
-- **Microsoft Forms**  
+- **Microsoft Low-code**  
 - **x1 SharePoint List**  
 - **Power Automate Flows**  
 - **Microsoft Intune/0365**    
