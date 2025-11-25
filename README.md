@@ -3,13 +3,14 @@ IntuneAutomate Mobile - FREE Repository for your Microsoft Intune Mobile monitor
 
 ![Intune Automate Mobile](Intune%20Automate.png)
 
-# 🚀 HR Automation for Microsoft Ecosystems
+# 🚀 Community tool for a quick Check-in with your Intune tenant on the go
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/your-org/hr-automation?style=social)
 
-Welcome to the **HR Automation Community Resource**!  
-This repository contains Microsoft-focused resources to help IT and HR automate common HR solutions. From the more complex Onboarding with Microsoft Intune for identity and workflow to end user experiences through Expenses and Leave. It's purpose is to help both IT and HR teams streamline employee lifecycle processes using the Microsoft 365 ecosystem.
+Welcome to the **IntuneAutomate GitHub Page**!  
+This repository contains Microsoft-focused resources for setting up IntuneAutomate Mobile - This is the First tool as part of IntuneAutomate Admin toolset.
+These tools are created for FREE Use and modification. If you are familiar with deploying Microsoft Power Apps and Power Automate flows the mobile solution provides automation for ease of tenant monitoring.
 
 ---
 
@@ -26,17 +27,16 @@ This repository contains Microsoft-focused resources to help IT and HR automate 
 
 ## 🎯 **Purpose**
 
-HR processes like onboarding and offboarding can be time-consuming and error-prone. This project provides **ready-to-use automation templates** built using:
+While The Intune portal is great there isnt a mobile version to gain a quick update and check-in. 
+The mobile App works on both Android and iOS and provides **ready-to-use Updates** built using:
 
 - **Microsoft Forms**  
-- **SharePoint**  
-- **Power Automate**  
-- **Planner**  
-- **Microsoft Entra**  
-- **Microsoft Teams**  
+- **x1 SharePoint List**  
+- **Power Automate Flows**  
+- **Microsoft Intune/0365**    
 - **Power Apps**
 
-Our goal is to **simplify HR workflows**, improve compliance, and enhance the employee experience — all while leveraging tools you already have in Microsoft 365.
+Our goal is to **gain quick access to Microsoft Intune metrics on the go**, with access to Devices enrolled, compliance and non-compliance, Applications regsiteredimprove compliance, and enhance the employee experience — all while leveraging tools you already have in Microsoft 365.
 
 ---
 
